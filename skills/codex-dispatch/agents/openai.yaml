@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Dispatch"
+  short_description: "Make a visible Direct-vs-subagent decision before work starts"
+  default_prompt: "Use $codex-dispatch to emit a visible Direct/Single/Parallel/Sequential decision before starting non-trivial Codex work."
