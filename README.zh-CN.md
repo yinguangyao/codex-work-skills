@@ -2,6 +2,11 @@
 
 [English](README.md) | [中文](README.zh-CN.md)
 
+> 已废弃：这个组合包只保留为修正记录。请改用两个独立 skill 仓库：
+>
+> - `evidence-first`：<https://github.com/yinguangyao/evidence-first-skill>
+> - `codex-dispatch`：<https://github.com/yinguangyao/codex-dispatch-skill>
+
 一个面向 Codex 日常工作的 skills 包：
 
 - `evidence-first`：先核对前提，用证据支撑结论，并明确验证方式。

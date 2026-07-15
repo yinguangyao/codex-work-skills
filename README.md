@@ -2,6 +2,11 @@
 
 [English](README.md) | [中文](README.zh-CN.md)
 
+> Deprecated: this combined package is kept only as a correction record. Use the separate skill repositories instead:
+>
+> - `evidence-first`: <https://github.com/yinguangyao/evidence-first-skill>
+> - `codex-dispatch`: <https://github.com/yinguangyao/codex-dispatch-skill>
+
 A small Codex skills pack for disciplined, evidence-backed work:
 
 - `evidence-first`: verify premises, cite evidence, and deliver with explicit verification.
